@@ -6,7 +6,7 @@ h2{
     font-family: fantasy;
     text-align: center;
     font-size: 30px;
-    color: turquoise;
+    color: red;
     font-style: italic;
 }
 
@@ -14,7 +14,7 @@ h4{
     font-family: fantasy;
     text-align: center;
     font-size: 20px;
-    color: turquoise;
+    color: red;
     font-style: italic;
 }
 
@@ -25,12 +25,12 @@ p{
 #menu{
     width: 100%;
     height: 40px;
-    background-color: darkblue;
+    background-color: red;
     padding-top: 12px;
 }
 
 #menu a{
-    color: gray;
+    color: white;
     font-size: 18px;
     font-weight: 800;
     font-family: Helvetica, sans-serif;
@@ -41,4 +41,4 @@ p{
 }
 
 #menu a:hover{
-    color: dodgerblue;
+    color: #121212;
