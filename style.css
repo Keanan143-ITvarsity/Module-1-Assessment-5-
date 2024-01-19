@@ -8,6 +8,7 @@ h2{
     font-size: 30px;
     color: red;
     font-style: italic;
+
 }
 
 h4{
@@ -20,6 +21,7 @@ h4{
 
 p{
     font-family: Helvetica, sans-serif;
+    text-align: center;
 }
 
 #menu{
@@ -42,3 +44,10 @@ p{
 
 #menu a:hover{
     color: #121212;
+}
+
+img{
+    width: 85%;
+    height: 85%;
+    
+}
